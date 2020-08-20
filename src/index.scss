@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@500&display=swap");
+body {
+  background: url("./assets/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "karla", sans-serif;
+}

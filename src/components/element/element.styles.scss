@@ -1,0 +1,17 @@
+.checkbox {
+  border: 1px solid white;
+  width: 1em;
+  height: 1em;
+  border-radius: 0.3em;
+  margin: 0 10px 0 5px;
+}
+.checkbox-ticked {
+  background-color: white;
+}
+.task {
+  font-weight: bold;
+}
+.element {
+  border-bottom: 0.1em solid black;
+  padding: 10px 0 10px 0;
+}
